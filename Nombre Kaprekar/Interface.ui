@@ -64,7 +64,7 @@
     </font>
    </property>
    <property name="text">
-    <string>Lorem upsum dolor sit amet dick in the hole of a volcano</string>
+    <string/>
    </property>
   </widget>
   <widget class="QLineEdit" name="lire_n">
