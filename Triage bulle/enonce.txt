@@ -1,0 +1,2 @@
+- Remplir un tableau de 20 entiers (4 <= n <= 20)
+- Puis Trier se tableau d'ordre croissant
